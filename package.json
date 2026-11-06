@@ -1,0 +1,12 @@
+{
+  "name": "lureware",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lureware — video & media editing studio static site",
+  "scripts": {
+    "start": "serve -s . -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
